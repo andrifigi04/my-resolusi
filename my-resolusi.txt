@@ -2,3 +2,5 @@ My Resolusi
 - Konsisten mempelajari github
 - Konsisten mempelajari setup laravel
 - melaporkan hasil belajar github dan laravel
+- membuat database faktadata dan qureta
+- membuat konten sosmed faktadata dan qureta
