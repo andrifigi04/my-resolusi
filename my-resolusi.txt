@@ -1,0 +1,4 @@
+My Resolusi
+- Konsisten mempelajari github
+- Konsisten mempelajari setup laravel
+- melaporkan hasil belajar github dan laravel
