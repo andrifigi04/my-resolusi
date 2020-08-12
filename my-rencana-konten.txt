@@ -7,6 +7,8 @@ RENCANA KONTEN SAYA
 - Belajar PHP
 - BELAJAR SETUP LARAVEL
 - MEMBUAT KONTEN SOSMED
- * promosi ke grup facebook
- * promosi merch di tokopedia
+ * konten instagram qureta
+ * konten instagram faktadata
 - UPLOAD KONTEN
+- SINKRONISASI DATA ABN
+ *Kerjasama dengan bang robby
