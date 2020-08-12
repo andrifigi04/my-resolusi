@@ -6,4 +6,8 @@ RENCANA KONTEN SAYA
   *INPUT DATA FAKTADATA
 - BELAJAR SETUP LARAVEL
 - MEMBUAT KONTEN SOSMED
+ * konten instagram qureta
+ * konten instagram faktadata
 - UPLOAD KONTEN
+- SINKRONISASI DATA ABN
+ *Kerjasama dengan bang robby
