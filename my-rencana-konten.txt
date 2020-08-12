@@ -4,6 +4,9 @@ RENCANA KONTEN SAYA
   *INPUT DATA QURETA
   *INPUT DATA ABN
   *INPUT DATA FAKTADATA
+- Belajar PHP
 - BELAJAR SETUP LARAVEL
 - MEMBUAT KONTEN SOSMED
+ * promosi ke grup facebook
+ * promosi merch di tokopedia
 - UPLOAD KONTEN
