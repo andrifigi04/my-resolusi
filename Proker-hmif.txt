@@ -1,4 +1,6 @@
 - Mengadakan rapat kerja tahunan
+  * Raker persiapan IT CAMP 2020
+  * Raker pr-pr hmif
 - membagikan tugas, pokok dan fungsi anggota pengurus
 - menjalankan pengabdian masyarakat
 - mengikutsertakan perlombaan untuk mahasiswa baik di bidang akademik maupun akademik
@@ -6,3 +8,4 @@
 - menjalin kerjasama yang berkesinambungan dengan stakeholder terkait
 - menampung kritik, saran dan masukan dari anggota hmif setiap bulan
 - membuat proker lainnya yang akan di bahas pada rapat selanjutnya
+- mengadakan seminar dan workshop
